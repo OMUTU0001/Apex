@@ -1,5 +1,4 @@
-// offsets.json
 {
-    "LocalPlayer": "0xAAAFFFF",
-    "EntityList": "0xBBBFFFF"
+  "EntityList": "0x4DFFF7C",
+  "LocalPlayer": "0xDEA98C"
 }
