@@ -1,5 +1,5 @@
 {
-  "ViewMatrix": "0x1",
+  "ViewMatrix": "0x11A350",
   "m_playerObserver": "0x954",
   "ModelName": "0x30",
   "NameIndex": "0x38",
@@ -10,7 +10,7 @@
   "m_isSemiAuto": "0x1E04",
   "m_iObserverMode": "0x35E4",
   "m_traversalState": "0x2B7C",
-  "CPlayerlastVisibleTime": "0x19F0",
+  "CPlayerlastVisibleTime": "0x9F0",
   "CBaseAnimatingm_pStudioHdr": "0xFD0",
   "CPlayercamera_origin": "0x1F40",
   "m_weaponNameIndex": "0x17F0",
