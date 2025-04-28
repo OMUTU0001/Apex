@@ -38,8 +38,6 @@
   "in_right": "0x3371100",
   "in_moveleft": "0x3370F30",
   "in_moveright": "0x3370F58",
-  "mp_gamemode": "0x2700320",
-  "thirdperson_override": "0x24FF400",
 
   "m_ammoInClip": "0x15B0",
   "m_ammoPoolCapacity": "0x2594",
