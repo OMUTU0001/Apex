@@ -14,7 +14,7 @@
   "CBaseAnimatingm_pStudioHdr": "0xFD0",
   "CPlayercamera_origin": "0x1F40",
   "m_weaponNameIndex": "0x17F0",
-  "CWeaponXm_flProjectileSpeed": "0x2790",
+  "CWeaponXm_flProjectileSpeed": "0x2798",
 
   "m_int32s": "0xBB0",
   "m_ranges": "0xB72",
