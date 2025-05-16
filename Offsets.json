@@ -16,6 +16,7 @@
   "m_weaponNameIndex": "0x17F0",
   "CWeaponXm_flProjectileSpeed": "0x2798",
 
+  "m_playerScriptNetDataGlobal": "0x47E8",
   "m_int32s": "0xBB0",
   "m_ranges": "0xB72",
   "m_grade": "0x348",
@@ -67,7 +68,6 @@
   "m_lifeState": "0x690",
   "m_nForceBone": "0xD88",
   "m_nSkin": "0xD60",
-  "m_playerScriptNetDataGlobal": "0x47E8",
   "m_shieldHealth": "0x1A0",
   "m_shieldHealthMax": "0x1A4",
   "m_skydiveIsDiving": "0x4870",
