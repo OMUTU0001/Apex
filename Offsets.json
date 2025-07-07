@@ -8,12 +8,12 @@
   "m_vecAbsVelocity": "0x170",
 
   "m_isSemiAuto": "0x1E04",
-  "m_iObserverMode": "0x35E4",
+  "m_iObserverMode": "0x3644",
   "m_traversalState": "0x2BE4",
   "CPlayerlastVisibleTime": "0x1A54",
   "CBaseAnimatingm_pStudioHdr": "0xFE8",
   "CPlayercamera_origin": "0x1FAC",
-  "m_weaponNameIndex": "0x17F0",
+  "m_weaponNameIndex": "0x1810",
   "CWeaponXm_flProjectileSpeed": "0x2798",
   "CWeaponXm_flProjectileScale": "0x27A0",
 
