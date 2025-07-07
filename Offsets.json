@@ -32,8 +32,8 @@
   "m_inventory": "0x1948",
 
 
-  "mp_gamemode": "0x26E9DF0",
-  "thirdperson_override": " 0x24E8830",
+  "mp_gamemode": "0x26DBD90",
+  "thirdperson_override": " 0x24DB030",
   
   "in_attack": "0x3C82010",
   "in_backward": "0x3C81F88",
@@ -50,13 +50,13 @@
   "m_bZooming": "0x1CA1",
   "m_bleedoutState": "0x2820",
 
-  "m_vecPunchWeapon_Angle": "0x2498",
-  "m_ammoPoolCount": "0x229C",
-  "m_latestPrimaryWeapons": "0x1994",
+  "m_vecPunchWeapon_Angle": "0x2500",
+  "m_ammoPoolCount": "0x2304",
+  "m_latestPrimaryWeapons": "0x19B4",
   "m_nextPrimaryAttackTime": "0x15DC",
-  "m_nextReadyTime": "0x15B8",
-  "m_playerData": "0x15D0",
-  "m_shotCount": "0x16F4",
+  "m_nextReadyTime": "0x15D8",
+  "m_playerData": "0x1650",
+  "m_shotCount": "0x1778",
 
   "m_customScriptInt": "0x15D4",
   "m_fFlags": "0xC8",
