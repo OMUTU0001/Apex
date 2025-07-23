@@ -32,8 +32,8 @@
   "m_inventory": "0x1948",
 
 
-  "mp_gamemode": "0x26DBD90",
-  "thirdperson_override": " 0x24DB030",
+  "mp_gamemode": "0x26DCF50",
+  "thirdperson_override": " 0x24DC210",
   
   "in_attack": "0x3C82010",
   "in_backward": "0x3C81F88",
