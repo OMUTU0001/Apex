@@ -7,7 +7,7 @@
   "m_vecAbsOrigin": "0x17C",
   "m_vecAbsVelocity": "0x170",
 
-  "m_isSemiAuto": "0x1E2C",
+  "m_isSemiAuto": "0x1E30",
   "m_iObserverMode": "0x3644",
   "m_traversalState": "0x2BEC",
   "CPlayerlastVisibleTime": "0x1A54",
