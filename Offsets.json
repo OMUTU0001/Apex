@@ -35,7 +35,7 @@
   "mp_gamemode": "0x26F7270",
   "thirdperson_override": " 0x24F5500",
   
-  "in_attack": "0x3CBCE98",
+  "in_attack": "0x3CBCEB8",
   "in_backward": "0x3CBCE10",
   "in_forward": "0x3CBCDE8",
   "in_jump": "0x3CBCFB0",
