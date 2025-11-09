@@ -45,10 +45,10 @@
   "in_moveleft": "0x40D8AD0",
   "in_moveright": "0x40D8AF8",
 
-  "m_ammoPoolCapacity": "0x25FC",
-  "m_armorType": "0x485C",
+  "m_ammoPoolCapacity": "0x26F4",
+  "m_armorType": "0x4974",
   "m_bZooming": "0x1CA1",
-  "m_bleedoutState": "0x2828",
+  "m_bleedoutState": "0x2920",
 
   "m_vecPunchWeapon_Angle": "0x2500",
   "m_ammoPoolCount": "0x2304",
@@ -60,10 +60,10 @@
 
   "m_customScriptInt": "0x15D4",
   "m_fFlags": "0xC8",
-  "m_hViewModels": "0x2E58",
-  "m_hardware": "0x2608",
-  "m_platformUserId": "0x2610",
-  "m_helmetType": "0x4858",
+  "m_hViewModels": "0x2DE0",
+  "m_hardware": "0x25A8",
+  "m_platformUserId": "0x2708",
+  "m_helmetType": "0x4970",
   "m_iHealth": "0x324",
   "m_iMaxHealth": "0x468",
   "m_iName": "0x479",
@@ -74,9 +74,9 @@
   "m_nSkin": "0xD58",
   "m_shieldHealth": "0x1A0",
   "m_shieldHealthMax": "0x1A4",
-  "m_skydiveIsDiving": "0x48D8",
-  "m_skydiveSpeed": "0x48DC",
-  "m_skydiveState": "0x48BC",
+  "m_skydiveIsDiving": "0x49F0",
+  "m_skydiveSpeed": "0x49F4",
+  "m_skydiveState": "0x49D4",
   "m_squadID": "0x340",
   "HighlightTypeSize": "0x34"
 }
