@@ -50,7 +50,7 @@
   "m_bZooming": "0x1CA1",
   "m_bleedoutState": "0x2920",
 
-  "m_vecPunchWeapon_Angle": "0x2500",
+  "m_vecPunchWeapon_Angle": "0x2508",
   "m_ammoPoolCount": "0x25F0",
   "m_latestPrimaryWeapons": "0x19B4",
   "m_nextPrimaryAttackTime": "0x15DC",
