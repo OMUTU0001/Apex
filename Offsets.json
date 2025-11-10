@@ -19,7 +19,7 @@
 
 
   "m_playerScriptNetDataGlobal": "0x4968",
-  "m_int32s": "0xBB0",
+  "m_int32s": "0xBC0",
   "m_ranges": "0xB72",
   "m_grade": "0x348",
   "m_sliding": "0x2F2D",
@@ -61,7 +61,7 @@
   "m_customScriptInt": "0x15D4",
   "m_fFlags": "0xC8",
   "m_hViewModels": "0x2F60",
-  "m_hardware": "0x25A8",
+  "m_hardware": "0x2700",
   "m_platformUserId": "0x2708",
   "m_helmetType": "0x4970",
   "m_iHealth": "0x324",
