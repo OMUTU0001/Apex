@@ -43,7 +43,7 @@
   "in_left": "0x40d9530",
   "in_right": "0x40d9550",
   "in_moveleft": "0x40d8a50",
-  "in_moveright": "0x40d8a78"
+  "in_moveright": "0x40d8a78",
 
   "m_ammoPoolCapacity": "0x2604",
   "m_armorType": "0x4974",
