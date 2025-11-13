@@ -31,9 +31,11 @@
   "m_currentFramePlayertimeBase": "0x2158",
   "m_inventory": "0x1948",
 
-
+  
+　"WeaponNames": "0x40D8A20",
   "mp_gamemode": "0x2AB5AE0",
   "thirdperson_override": " 0x28BF960",
+
   
   "in_attack": "0x40D8B30",
   "in_backward": "0x40D8A88",
