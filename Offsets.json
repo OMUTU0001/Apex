@@ -18,8 +18,8 @@
   "CBaseAnimatingm_pStudioHdr": "0xFF0",
   "CPlayercamera_origin": "0x1FB4",
   "m_weaponNameIndex": "0x1818",
-  "CWeaponXm_flProjectileSpeed": "0x2818",
-  "CWeaponXm_flProjectileScale": "0x2820",
+  "CWeaponXm_flProjectileSpeed": "0x2820",
+  "CWeaponXm_flProjectileScale": "0x2828",
 
 
   "m_playerScriptNetDataGlobal": "0x4968",
