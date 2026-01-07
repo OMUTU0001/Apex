@@ -36,9 +36,9 @@
   "m_inventory": "0x1948",
 
 
-  "WeaponNames": "0x40D8BA0",
-  "mp_gamemode": "0x2AB5B80",
-  "thirdperson_override": " 0x28BF9F0",
+  "WeaponNames": "0x4179DD0",
+  "mp_gamemode": "0x2ACC120",
+  "thirdperson_override": " 0x28D5960",
 
 
   "in_attack": "0x40D8B30",
