@@ -54,7 +54,7 @@
   "m_ammoPoolCapacity": "0x2604",
   "m_armorType": "0x4974",
   "m_bZooming": "0x1CA1",
-  "m_bleedoutState": "0x2920",
+  "m_bleedoutState": "0x28A0",
 
   "m_vecPunchWeapon_Angle": "0x2508",
   "m_ammoPoolCount": "0x230C",
